@@ -614,21 +614,21 @@
          "tilewidth":32
         }, 
         {
-         "columns":25,
+         "columns":32,
          "firstgid":1833,
          "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
-         "imagewidth":800,
+         "imagewidth":1054,
          "margin":0,
          "name":"WA_Exterior",
          "spacing":0,
-         "tilecount":850,
+         "tilecount":1088,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":13,
-         "firstgid":2683,
+         "firstgid":2921,
          "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
