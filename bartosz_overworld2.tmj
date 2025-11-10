@@ -290,7 +290,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"bartosz_overworld1.tmj#fromMap2BottomRight"
+                         "value":"bartosz_overworld1.tmj#fromMap2BottomLeft"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -300,6 +300,142 @@
                  "y":1184
                 }, 
                 {
+                 "height":32,
+                 "id":9,
+                 "name":"toMap3BottomLeft",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"bartosz_overworld3.tmj#fromMap2BottomRight"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2016,
+                 "y":1216
+                }, 
+                {
+                 "height":96,
+                 "id":11,
+                 "name":"toMap3MiddleLeft",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"bartosz_overworld3.tmj#fromMap2MiddleRight"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2016,
+                 "y":832
+                }, 
+                {
+                 "height":64,
+                 "id":13,
+                 "name":"toMap3TopLeft",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"bartosz_overworld3.tmj#fromMap2TopRight"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2016,
+                 "y":160
+                }, 
+                {
+                 "height":224,
+                 "id":15,
+                 "name":"toMap3Middle2Left",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"bartosz_overworld3.tmj#fromMap2Middle2Right"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2015.70833333333,
+                 "y":415.875
+                }, 
+                {
+                 "height":224,
+                 "id":16,
+                 "name":"fromMap3Middle2Left",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":1920,
+                 "y":416
+                }, 
+                {
+                 "height":64,
+                 "id":14,
+                 "name":"fromMap3TopLeft",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":1952,
+                 "y":160
+                }, 
+                {
+                 "height":96,
+                 "id":12,
+                 "name":"fromMap3MiddleLeft",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":1952,
+                 "y":832
+                }, 
+                {
+                 "height":32,
+                 "id":10,
+                 "name":"fromMap3BottomLeft",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":1952,
+                 "y":1216
+                }, 
+                {
                  "height":96,
                  "id":2,
                  "name":"toMap1MiddleRight",
@@ -307,7 +443,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"bartosz_overworld1.tmj#fromMap2MiddleRight"
+                         "value":"bartosz_overworld1.tmj#fromMap2MiddleLeft"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -324,7 +460,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"bartosz_overworld1.tmj#fromMap2TopRight"
+                         "value":"bartosz_overworld1.tmj#fromMap2TopLeft"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -336,7 +472,7 @@
                 {
                  "height":32,
                  "id":7,
-                 "name":"toMap6LeftTop",
+                 "name":"toMap6LeftBottom",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -425,7 +561,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":9,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",

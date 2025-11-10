@@ -366,7 +366,7 @@
                 {
                  "height":96,
                  "id":1,
-                 "name":"toMap2BottomRight",
+                 "name":"toMap2BottomLeft",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -383,7 +383,7 @@
                 {
                  "height":96,
                  "id":10,
-                 "name":"fromMap2BottomRight",
+                 "name":"fromMap2BottomLeft",
                  "properties":[
                         {
                          "name":"start",
@@ -400,7 +400,7 @@
                 {
                  "height":96,
                  "id":2,
-                 "name":"toMap2MiddleRight",
+                 "name":"toMap2MiddleLeft",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -417,7 +417,7 @@
                 {
                  "height":96,
                  "id":9,
-                 "name":"fromMap2MiddleRight",
+                 "name":"fromMap2MiddleLeft",
                  "properties":[
                         {
                          "name":"start",
@@ -434,7 +434,7 @@
                 {
                  "height":96,
                  "id":3,
-                 "name":"toMap2TopRight",
+                 "name":"toMap2TopLeft",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -451,7 +451,7 @@
                 {
                  "height":96,
                  "id":8,
-                 "name":"fromMap2TopRight",
+                 "name":"fromMap2TopLeft",
                  "properties":[
                         {
                          "name":"start",
@@ -468,7 +468,7 @@
                 {
                  "height":32,
                  "id":4,
-                 "name":"toMap5LeftTop",
+                 "name":"toMap5LeftBottom",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -485,7 +485,7 @@
                 {
                  "height":32,
                  "id":5,
-                 "name":"toMap5RightTop",
+                 "name":"toMap5RightBottom",
                  "properties":[
                         {
                          "name":"exitUrl",
